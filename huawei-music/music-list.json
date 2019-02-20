@@ -3,23 +3,23 @@
   "title": "后来的我们",
   "author": "五月天",
   "albumn": "后来的我们",
-  "lyric": "",
-  "url": ""
+  "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_后来的我们.json",
+  "url": "https://jirengu.github.io/data-mock/huawei-music/后来的我们.mp3"
 },
 {
   "id": "2",
   "title": "假装",
   "author": "陈雪凝",
   "albumn": "拾陆",
-  "lyric": "",
-  "url": ""
+  "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_假装.json",
+  "url": "https://jirengu.github.io/data-mock/huawei-music/假装.mp3"
 },
 {
   "id": "3",
   "title": "烦恼歌",
   "author": "张学友",
   "albumn": "在你身边",
-  "lyric": "",
-  "url": ""
+  "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_烦恼歌.json",
+  "url": "https://jirengu.github.io/data-mock/huawei-music/烦恼歌.mp3"
 },
 ]
