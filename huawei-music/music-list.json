@@ -1,4 +1,13 @@
-[{
+[ 
+{
+    "id": "0",
+    "title": "水星记",
+    "author": "郭顶",
+    "albumn": "飞行器的执行周期",
+    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_水星记.json",
+    "url": "https://jirengu.github.io/data-mock/huawei-music/水星记.mp3"
+},
+{
   "id": "1",
   "title": "后来的我们",
   "author": "五月天",
